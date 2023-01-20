@@ -8,3 +8,4 @@ Manipulated the data types of some variables.
 Filtered the data for a specific date.
 Found the total revenue of products and created the bar chart.
 Found the number of items per hour and plotted the histogram. 
+Answers and plots are in the Conclusions doc.
